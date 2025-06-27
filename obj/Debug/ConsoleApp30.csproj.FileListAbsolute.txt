@@ -1,0 +1,9 @@
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
+C:\Users\Kab-35-16\Desktop\ExamQuestions-24-task\obj\Debug\ConsoleApp30.exe
+C:\Users\Kab-35-16\Desktop\ExamQuestions-24-task\obj\Debug\ConsoleApp30.pdb
